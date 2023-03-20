@@ -1,16 +1,63 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**LuBly/LuBly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0c343d&text=Hyunho&fontColor=ffffff)
 
-Here are some ideas to get you started:
+### :wave: Welcome my github page !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+
+<br/>
+
+### :clipboard: I frequently used
+
+<br/>
+
+<img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white">
+
+<img src="https://img.shields.io/badge/-C%23-239120?logo=Csharp&logoColor=white">
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black">
+
+### :beginner: Once I've Used
+
+<br/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?&logo=TypeScript&logoColor=white">
+
+<img src="https://img.shields.io/badge/Node.js-339933?&logo=Node.js&logoColor=white">
+
+<img src="https://img.shields.io/badge/Socket.io-010101?&logo=Socket.io&logoColor=white">
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?&logo=Spring&logoColor=white">
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?&logo=Spring Boot&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white">
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?&logo=Prisma&logoColor=white">
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=black">
+
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=Google Colab&logoColor=white">
+
+### :speech_balloon: Co-op tool
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
+
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white">
+
+<img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white">
+
+<img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
+
