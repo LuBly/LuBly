@@ -5,10 +5,12 @@
 ### :wave: Welcome my github page !
 
 <br/>
-
-
+  
 <br/>
 
+## 📚 Stacks
+================
+  
 ### :clipboard: I frequently used
 
 <br/>
@@ -60,4 +62,19 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white">
 
 <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white">
+
+<br/>
+<br/>
+
+## :rainbow: Stats
+================
+
+[![LuBly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuBly&show_icon=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumenize)](https://solved.ac/lumenize) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuBly&layout=compact&theme=radical)     
+
+  
+  
+  
 
