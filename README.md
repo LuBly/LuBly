@@ -9,7 +9,6 @@
 <br/>
 
 ## 📚 Stacks
-================
   
 ### :clipboard: I frequently used
 
@@ -67,7 +66,6 @@
 <br/>
 
 ## :rainbow: Stats
-================
 
 [![LuBly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuBly&show_icon=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
