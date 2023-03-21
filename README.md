@@ -2,8 +2,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0c343d&text=Hyunho&fontColor=ffffff)
 
-### :wave: Welcome my github page !
+:email:Email:email:
 
+lumenize@ajou.ac.kr
+
+### :tada: Who Am I? :tada:
+  
+안녕하세요:sparkles:
+
+제 이름은 박현호이고, 게임 프로그래밍을 공부하고 있어요!
+아주대학교를 졸업하고 게임 포트폴리오를 위해 Unity를 공부하고 있습니다.
+  
 <br/>
   
 <br/>
