@@ -70,7 +70,7 @@
 [![LuBly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuBly&show_icon=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumenize)](https://solved.ac/lumenize) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuBly&layout=compact&theme=radical)     
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumenize)](https://solved.ac/lumenize) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuBly&layout=compact&theme=gotham)     
 
   
   
