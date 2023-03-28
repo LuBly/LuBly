@@ -15,14 +15,10 @@ lumenize@ajou.ac.kr
 아주대학교를 졸업하고 게임제작을 위한 Unity와 알고리즘을 공부하고 있어요.
   
 <br/>
-  
-<br/>
 
 ## 📚 Stacks
   
 ### :clipboard: I frequently used
-
-<br/>
 
 <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white">
 
@@ -31,8 +27,6 @@ lumenize@ajou.ac.kr
 <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=Unity&logoColor=black">
 
 ### :beginner: Once I've Used
-
-<br/>
 
 <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white">
 
@@ -62,8 +56,6 @@ lumenize@ajou.ac.kr
 
 ### :speech_balloon: Co-op tool
 
-<br/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white">
 
 <img src="https://img.shields.io/badge/Slack-4A154B?logo=Slack&logoColor=white">
@@ -77,11 +69,10 @@ lumenize@ajou.ac.kr
 
 ## :rainbow: Stats
 
-[![LuBly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuBly&show_icon=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)  
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumenize)](https://solved.ac/lumenize) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuBly&layout=compact&theme=gotham)     
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lumenize)](https://solved.ac/lumenize) 
+  
+![LuBly's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuBly&show_icon=true&theme=gotham)
   
   
   
